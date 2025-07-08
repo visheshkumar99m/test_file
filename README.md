@@ -1,5 +1,5 @@
 # 1: what you built
-# i made car selling website.
+# i have made a car selling website.
 
 # 2: tools used
 # .frontend tools html for structing the web page and css(bootstrapt) for styling the page and javascripts for perform the logic
